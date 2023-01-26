@@ -8,7 +8,8 @@
 - Communicating the results
 
 
-### Case Study: Autonomous Vechichles Perception
+### Case Study: 
+- Autonomous Vechichles Perception
 
 ### Goal: 
 - Detecting an object infront of a car base on a camera image (Semantic Segmentation)
